@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="creativescala.doodle.turtle_2.12" type="repository">
+    <properties maven-id="org.creativescala:doodle-turtle_2.12:0.9.20" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/doodle-turtle_2.12-0.9.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.12.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/doodle-core_2.12-0.9.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/doodle-image_2.12-0.9.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/doodle-java2d_2.12-0.9.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/doodle-explore_2.12-0.9.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/magnolia_2.12-0.12.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mercator_2.12-0.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-compiler-2.12.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-xml_2.12-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-reflect-2.12.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/doodle-interact_2.12-0.9.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/monix_2.12-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/monix-execution_2.12-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/implicitbox_2.12-0.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jctools-core-2.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/reactive-streams-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/monix-catnap_2.12-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/monix-eval_2.12-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/monix-tail_2.12-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/monix-reactive_2.12-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/monix-java_2.12-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/VectorGraphics2D-0.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cats-core_2.12-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cats-macros_2.12-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cats-kernel_2.12-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cats-effect_2.12-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cats-free_2.12-2.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
